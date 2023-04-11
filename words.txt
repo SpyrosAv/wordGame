@@ -1,0 +1,10 @@
+low
+index
+memory
+important
+support
+imperative
+functional
+library
+dynamic
+closure
