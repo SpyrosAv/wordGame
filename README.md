@@ -1,1 +1,1 @@
-# wordGame
+This program written in python is a type of hangman game. There is a .txt file which contains a plenty of words. The user has to guess a word by finding its characters one-by-one. When the user types a wrong character, they loose one turn. The maximum amount of turns in order to find a word is 5. 
